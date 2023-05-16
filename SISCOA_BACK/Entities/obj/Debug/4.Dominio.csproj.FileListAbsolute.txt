@@ -1,0 +1,14 @@
+C:\Users\juanp\OneDrive\Escritorio\SISCOA_BACK\Entities\bin\Debug\Entities.dll.config
+C:\Users\juanp\OneDrive\Escritorio\SISCOA_BACK\Entities\bin\Debug\Entities.dll
+C:\Users\juanp\OneDrive\Escritorio\SISCOA_BACK\Entities\bin\Debug\Entities.pdb
+C:\Users\juanp\OneDrive\Escritorio\SISCOA_BACK\Entities\bin\Debug\AutoMapper.dll
+C:\Users\juanp\OneDrive\Escritorio\SISCOA_BACK\Entities\bin\Debug\EntityFramework.dll
+C:\Users\juanp\OneDrive\Escritorio\SISCOA_BACK\Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\juanp\OneDrive\Escritorio\SISCOA_BACK\Entities\bin\Debug\AutoMapper.xml
+C:\Users\juanp\OneDrive\Escritorio\SISCOA_BACK\Entities\bin\Debug\EntityFramework.xml
+C:\Users\juanp\OneDrive\Escritorio\SISCOA_BACK\Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\juanp\OneDrive\Escritorio\SISCOA_BACK\Entities\obj\Debug\4.Dominio.csproj.AssemblyReference.cache
+C:\Users\juanp\OneDrive\Escritorio\SISCOA_BACK\Entities\obj\Debug\4.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\juanp\OneDrive\Escritorio\SISCOA_BACK\Entities\obj\Debug\4.Dominio.csproj.CopyComplete
+C:\Users\juanp\OneDrive\Escritorio\SISCOA_BACK\Entities\obj\Debug\Entities.dll
+C:\Users\juanp\OneDrive\Escritorio\SISCOA_BACK\Entities\obj\Debug\Entities.pdb
